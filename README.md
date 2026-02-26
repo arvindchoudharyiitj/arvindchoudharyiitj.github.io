@@ -1,5 +1,5 @@
-author - Arvind Bhakar
-this is my git repository
+//author - Arvind Bhakar
+//this is my git repository
 #include<stdio.h>
 #include<string.h>
 #define passkey 040579
