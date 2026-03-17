@@ -2,7 +2,7 @@
 //this is my git repository
 #include<stdio.h>
 #include<string.h>
-#define passkey 040579
+#define passkey 76336
 
 int main(){
    int key;
